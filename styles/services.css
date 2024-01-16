@@ -1,0 +1,29 @@
+.services-middle {
+    background-color: #ccc;
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+}
+
+.services-middle-title {
+    font-weight: 600;
+    font-size: 50px;
+    color: #000000;
+    margin-top: 80px;
+}
+
+.services-middle-text {
+    font-size: 25px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 1);
+    margin: 30px 0;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.small {
+    max-width: 80%;
+    margin: 0 auto;
+
+}

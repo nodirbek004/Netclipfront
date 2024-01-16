@@ -1,0 +1,29 @@
+.works-row {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.works-box {
+    width: 98%;
+    margin: 10px;
+    height: 338px;
+    background-image: url(../assets/image/works.png);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.works-box-title {
+    font-weight: 700;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.works-box-text {
+    font-weight: 500;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 20px;
+}

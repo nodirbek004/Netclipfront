@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family:Euclid Circular A ;
+    src: url(./fonts/Euclid\ Circular\ A\ Regular.ttf);
+}
+.container{
+    margin: 0 auto;
+    padding: 0 20px;
+    width: 100%;
+    background-color: white;
+
+}
+.nav-contents{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    margin: 0 auto;
+}
+
+.nav-items{
+    display: flex;
+    gap: 40px;
+}
+.btn1 button{
+    color: #FFF;
+text-align: center;
+
+/* Desktop/M Text */
+font-family: Euclid Circular A;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 160% */
+border-radius: 32px;
+background: #5FBB9F;
+padding: 5px 24px 7px 24px;
+border: none;
+}
+
+h2{
+    font-size: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 80px;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.nav{
+    position: fixed;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+h3{
+    color: #000;
+
+/* Desktop/XXL Heding */
+font-family: Euclid Circular A;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+
+}
+.img2 img{
+    display: block;
+    margin: 0 auto;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.comp1{
+    margin-left: 100px;
+}
+
+.comp1 .image1{
+    margin-top: 300px;
+    width: 313px;
+    height: 282px;
+    top: 3600px !important;
+    left: 433px;
+    padding: 36px, 40px, 0px, 0px;
+}
+
+.comp1 .image2{
+    width: 526px;
+    height: 524px;
+    top: 2740px;
+    left: 659px;
+    margin-left: -100px;
+}
+
